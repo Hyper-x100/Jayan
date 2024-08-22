@@ -86,12 +86,12 @@
 
 ## THANKS TO 👨‍💻
 
-• Asif King - Web Design
+• Jayan - Web Design
 
-• Kasun - Testing
+• Ashen - Testing
 
-• Danidu Nirmal - Logo Design
+• Sethun - Logo Design
 
-• Ushani - Voice Helper
+• Pamodi - Voice Helper
 
 
